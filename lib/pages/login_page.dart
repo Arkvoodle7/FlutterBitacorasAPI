@@ -27,7 +27,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       // AppBar con estilo
       appBar: AppBar(
-        title: const Text('Login Bitácoras'),
+        title: const Text('Login'),
         centerTitle: true,
         elevation: 4,
       ),
